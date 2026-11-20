@@ -19,4 +19,16 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0010-regular-expression-matching](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 <!---LeetCode Topics End-->
