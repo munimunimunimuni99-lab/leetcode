@@ -66,12 +66,14 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0733-flood-fill](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -80,6 +82,7 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
@@ -116,4 +119,5 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0099-recover-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
