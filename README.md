@@ -7,6 +7,7 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -14,6 +15,7 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Linked List
@@ -41,6 +43,7 @@ just for test!
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -67,6 +70,7 @@ just for test!
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -83,6 +87,7 @@ just for test!
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## DP on Trees
