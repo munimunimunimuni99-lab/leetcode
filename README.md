@@ -8,11 +8,13 @@ just for test!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,4 +84,12 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
