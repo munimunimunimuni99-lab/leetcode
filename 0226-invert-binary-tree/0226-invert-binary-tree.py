@@ -1,5 +1,6 @@
+
 class Solution:
-     def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
 
         if root is None:
             return None
@@ -10,20 +11,3 @@ class Solution:
         self.invertTree(root.right)
 
         return root
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
