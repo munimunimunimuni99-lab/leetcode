@@ -26,6 +26,7 @@ just for test!
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0206-reverse-linked-list](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@ just for test!
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0206-reverse-linked-list](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
