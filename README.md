@@ -19,6 +19,7 @@ just for test!
 | [0001-two-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0242-valid-anagram](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Linked List
@@ -38,6 +39,7 @@ just for test!
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0224-basic-calculator](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0224-basic-calculator/) | Hard |
+| [0242-valid-anagram](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@ just for test!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
