@@ -37,6 +37,7 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0010-regular-expression-matching](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
+| [0224-basic-calculator](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ just for test!
 | [0010-regular-expression-matching](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0224-basic-calculator](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@ just for test!
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0224-basic-calculator](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -141,6 +144,7 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0224-basic-calculator](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0224-basic-calculator/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
