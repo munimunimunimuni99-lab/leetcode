@@ -9,6 +9,7 @@ just for test!
 | [0001-two-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0120-triangle](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0120-triangle/) | Medium |
+| [0136-single-number](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0136-single-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -135,4 +136,8 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
