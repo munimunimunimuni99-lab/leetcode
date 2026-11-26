@@ -54,6 +54,7 @@ just for test!
 | [0021-merge-two-sorted-lists](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0224-basic-calculator](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0224-basic-calculator/) | Hard |
+| [0342-power-of-four](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,10 +153,12 @@ just for test!
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0224-basic-calculator](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0224-basic-calculator/) | Hard |
+| [0342-power-of-four](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0136-single-number/) | Easy |
+| [0342-power-of-four](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
