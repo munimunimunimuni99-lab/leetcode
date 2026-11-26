@@ -14,6 +14,7 @@ just for test!
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0733-flood-fill/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -171,4 +172,8 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
