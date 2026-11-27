@@ -14,6 +14,7 @@ just for test!
 | [0198-house-robber](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -52,6 +53,7 @@ just for test!
 | [0120-triangle](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -185,8 +187,13 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
