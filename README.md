@@ -96,6 +96,7 @@ just for test!
 | [0096-unique-binary-search-trees](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -114,6 +115,7 @@ just for test!
 | [0096-unique-binary-search-trees](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0099-recover-binary-search-tree/) | Medium |
+| [0102-binary-tree-level-order-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -124,6 +126,7 @@ just for test!
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0733-flood-fill/) | Easy |
