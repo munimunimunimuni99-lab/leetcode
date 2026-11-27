@@ -12,6 +12,7 @@ just for test!
 | [0120-triangle](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0120-triangle/) | Medium |
 | [0136-single-number](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0136-single-number/) | Easy |
 | [0198-house-robber](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0733-flood-fill](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0733-flood-fill/) | Easy |
@@ -50,6 +51,7 @@ just for test!
 | [0096-unique-binary-search-trees](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0120-triangle/) | Medium |
 | [0198-house-robber](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0733-flood-fill/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Stack
@@ -178,4 +181,12 @@ just for test!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/munimunimunimuni99-lab/leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
